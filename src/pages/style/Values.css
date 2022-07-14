@@ -1,0 +1,37 @@
+.valuesBox{
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.89);
+    width:22vw;
+    justify-content: center;
+    padding:5px;
+    position: fixed;
+    right:0;
+}
+
+.input-control{
+    padding: 10px;
+}
+
+.box1{
+    width: 100%;
+    background-color: white;
+    padding: 10px 15px;
+}
+
+
+
+.type-input{
+    background-color:whitesmoke;
+    padding: 3px 10px;
+    border-radius: 5px 5px 0px 0px;
+    width: 50%;
+}
+
+.type-JSON{
+    background-color:rgb(143, 143, 143);
+    color:white;
+    padding: 3px 10px;
+    border-radius: 5px 5px 0px 0px;
+    cursor: pointer;
+    width: 50%;
+}
